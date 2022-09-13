@@ -1,4 +1,4 @@
-# FTC Team 15982 Children of Jimmy
+# FTC Team 15982 Where's Allen's Wrench
 Welcome!
 
 We're FIRST Tech Challenge Team 15982, a robotics team made up of sophmores from North Kingsown High School! We have multiple programmers of varying experience, the ones who contibute to our Github are linked below:
